@@ -1,0 +1,1 @@
+Magic UI components by magicuidesign (https://github.com/magicuidesign/magicui), released under the MIT Licence.
