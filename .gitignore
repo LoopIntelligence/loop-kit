@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+*.log
+.env
+.env.*
+*.pem
+*.key
+.temp-*
+__pycache__/
+*.pyc
+
+# Kept locally, not published — installs a permissions-bypass alias
+skills/install-claude-yolo/
+
+# Brand assets are not part of the customer kit
+brand/
